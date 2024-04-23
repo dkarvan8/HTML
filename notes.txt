@@ -1,0 +1,15 @@
+6th april
+<tagname> = open tag
+content
+</tagname> = close tag
+whole html is in html element
+element contains open , content and closed tag
+shortcuts are called emmets
+html basic body is created by !enter or html:5(enter)
+<!-- comment -->
+h3+h4 :- gives two tags
+if the given tags dont exist then it will start considering as paragraph tags.
+after innitialising git..it shows U which means untracked
+if we give "git add . " it will tell add the entire directory.
+git is used to track our changes.
+"git commit -m "message" " saves the changes.
