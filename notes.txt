@@ -13,3 +13,14 @@ after innitialising git..it shows U which means untracked
 if we give "git add . " it will tell add the entire directory.
 git is used to track our changes.
 "git commit -m "message" " saves the changes.
+8th april
+target="_blank" for the link to procees to another page.
+some tags have no need to close them. they are called self closing tags or empty elements or unpaired tags.
+<img src = " " alt = "  ">
+<a href = " " target = "_blank"> whatever </a>
+<b> or <strong> is for bold
+<strong> emphasises that the words mentioned allows the website  to undertand that the keyword is important.
+<i> italic tag 
+<em> is also italic but the website stores it as key word.
+<u> underline tag
+<del> its for striking words
