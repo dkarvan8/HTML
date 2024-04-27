@@ -24,3 +24,12 @@ some tags have no need to close them. they are called self closing tags or empty
 <em> is also italic but the website stores it as key word.
 <u> underline tag
 <del> its for striking words
+git remote remove origin
+<sub> is for the character to be slightly placed down
+<sup> is for the character to be slightly up 
+<pre> allows us to get the output exactly the same way as we write in.
+<code> to write a code
+<marquee> is for the words or pictures to come and leave in a slideform.
+<mark> to highlight
+
+
